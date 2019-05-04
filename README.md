@@ -1,4 +1,11 @@
-# mediaLab4
+# Testavimas
+
+Ištestuota su šiomis naršyklėmis:
+Google Chrome 73.0.3683.103 (Official Build) (64-bit)
+<br>
+Microsoft Edge 44.17763.1.0
+
+Buvo sukurtas loginis W diskas, kuris panaudotas kaip web server. Prieiga vidinė.
 
 This lab aims to build your first WebRTC app.
 
